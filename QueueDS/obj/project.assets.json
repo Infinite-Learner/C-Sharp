@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\civil 22\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ND\\Repos\\C-Sharp\\QueueDS\\QueueDS.csproj",
+      "projectUniqueName": "D:\\C-Sharp\\QueueDS\\QueueDS.csproj",
       "projectName": "QueueDS",
-      "projectPath": "D:\\ND\\Repos\\C-Sharp\\QueueDS\\QueueDS.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\ND\\Repos\\C-Sharp\\QueueDS\\obj\\",
+      "projectPath": "D:\\C-Sharp\\QueueDS\\QueueDS.csproj",
+      "packagesPath": "C:\\Users\\civil 22\\.nuget\\packages\\",
+      "outputPath": "D:\\C-Sharp\\QueueDS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\civil 22\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
