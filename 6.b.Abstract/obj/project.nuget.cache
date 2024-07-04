@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "XJ4xmrqXqWg=",
+  "dgSpecHash": "lueJwT6CXCk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\civil 22\\source\\repos\\Abstract\\Abstract.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\C-Sharp\\Abstract\\Abstract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\THE_CODER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.6\\microsoft.windowsdesktop.app.ref.8.0.6.nupkg.sha512",
+    "C:\\Users\\THE_CODER\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.6\\microsoft.netcore.app.ref.8.0.6.nupkg.sha512",
+    "C:\\Users\\THE_CODER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.6\\microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512",
+    "C:\\Users\\THE_CODER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.6\\microsoft.netcore.app.host.win-x64.8.0.6.nupkg.sha512"
+  ],
   "logs": []
 }

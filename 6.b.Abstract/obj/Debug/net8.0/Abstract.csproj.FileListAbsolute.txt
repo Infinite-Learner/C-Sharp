@@ -1,4 +1,15 @@
-C:\Users\civil 22\source\repos\Abstract\obj\Debug\net8.0\Abstract.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\civil 22\source\repos\Abstract\obj\Debug\net8.0\Abstract.AssemblyInfoInputs.cache
-C:\Users\civil 22\source\repos\Abstract\obj\Debug\net8.0\Abstract.AssemblyInfo.cs
-C:\Users\civil 22\source\repos\Abstract\obj\Debug\net8.0\Abstract.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Abstract\bin\Debug\net8.0\Abstract.exe
+D:\C-Sharp\Abstract\bin\Debug\net8.0\Abstract.deps.json
+D:\C-Sharp\Abstract\bin\Debug\net8.0\Abstract.runtimeconfig.json
+D:\C-Sharp\Abstract\bin\Debug\net8.0\Abstract.dll
+D:\C-Sharp\Abstract\bin\Debug\net8.0\Abstract.pdb
+D:\C-Sharp\Abstract\obj\Debug\net8.0\Abstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\Abstract\obj\Debug\net8.0\Abstract.AssemblyInfoInputs.cache
+D:\C-Sharp\Abstract\obj\Debug\net8.0\Abstract.AssemblyInfo.cs
+D:\C-Sharp\Abstract\obj\Debug\net8.0\Abstract.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Abstract\obj\Debug\net8.0\Abstract.sourcelink.json
+D:\C-Sharp\Abstract\obj\Debug\net8.0\Abstract.dll
+D:\C-Sharp\Abstract\obj\Debug\net8.0\refint\Abstract.dll
+D:\C-Sharp\Abstract\obj\Debug\net8.0\Abstract.pdb
+D:\C-Sharp\Abstract\obj\Debug\net8.0\Abstract.genruntimeconfig.cache
+D:\C-Sharp\Abstract\obj\Debug\net8.0\ref\Abstract.dll
