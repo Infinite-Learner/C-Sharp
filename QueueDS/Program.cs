@@ -3,24 +3,22 @@ namespace CS6
 {
     public interface Queue
     {
-        public void QueueCreation();
         public void EnQueue(int value);
         public int DeQueue();
-        public void front();
-        public void rear();
+        public int front();
+        public int rear();
         public bool isEmpty();
         public bool isFull();
     }
     public class QueueImp : Queue
     {
         int[] Que;
-        private int Max = 100, Rear=0, Front=0;
-        public void QueueCreation()
+        private int Max,Rear,Front;
+        public QueueImp(int n)
         {
-
-            Que = new int[100];
-
-            throw new NotImplementedException();
+            Que = new int[n];
+            Max = n;
+            Rear = Front = 0;
         }
         public void EnQueue(int value)
         {
@@ -33,36 +31,76 @@ namespace CS6
                 Que[Rear] = value;
                 Rear++;
             }
-            throw new NotImplementedException();
 
         }
         public int DeQueue()
         {
             if (isEmpty())
             {
-                Console.WriteLine("Queue is Empty");            }
-            throw new NotImplementedException();
+                Console.WriteLine("Queue is Empty");
+                return 0;
+            }
+            else
+            {
+                int val = Que[Front];
+                for(int i=0;i<Rear;i++)
+                {
+                    Que[i] = Que[i+1];
+                }
+                return val;
+            }
 
         }
-        public void front()
+        public int front()
         {
-            throw new NotImplementedException();
-
+            if(isEmpty())
+            {
+                Console.WriteLine("Queue is Empty");
+                return 0;
+            }
+            else{
+                return(Que[Front]);
+            }   
         }
-        public void rear()
+        public int rear()
         {
-            throw new NotImplementedException();
-
+            if (isEmpty())
+            {
+                Console.WriteLine("Queue is Empty");
+                return 0;
+            }
+            else
+            {
+                return (Que[Rear]);
+            }
         }
         public bool isEmpty()
         {
-            throw new NotImplementedException();
-}
+            if(Rear==Front)
+            {
+                return true;
+            }
+        return false;
+           
+        }
         public bool isFull()
         {
-            throw new NotImplementedException();
-
+            if (Rear == Max - 1)
+            { 
+                return true;
+            }
+           return false;
+        }
+        public static void Main()
+        {
+            QueueImp queue1 = new QueueImp(10);
+            queue1.EnQueue(10);
+            queue1.EnQueue(20);
+            Console.WriteLine(queue1.DeQueue());
+            Console.WriteLine(queue1.front());
+            Console.WriteLine(queue1.rear());
         }
 
     }
+
 }
