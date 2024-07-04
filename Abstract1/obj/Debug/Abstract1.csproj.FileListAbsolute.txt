@@ -1,8 +1,0 @@
-C:\Users\THE_CODER\source\repos\Abstract1\obj\Debug\Abstract1.csproj.AssemblyReference.cache
-C:\Users\THE_CODER\source\repos\Abstract1\obj\Debug\Abstract1.csproj.SuggestedBindingRedirects.cache
-C:\Users\THE_CODER\source\repos\Abstract1\obj\Debug\Abstract1.csproj.CoreCompileInputs.cache
-C:\Users\THE_CODER\source\repos\Abstract1\bin\Debug\Abstract1.exe.config
-C:\Users\THE_CODER\source\repos\Abstract1\bin\Debug\Abstract1.exe
-C:\Users\THE_CODER\source\repos\Abstract1\bin\Debug\Abstract1.pdb
-C:\Users\THE_CODER\source\repos\Abstract1\obj\Debug\Abstract1.exe
-C:\Users\THE_CODER\source\repos\Abstract1\obj\Debug\Abstract1.pdb
