@@ -1,4 +1,0 @@
-C:\Users\civil 22\source\repos\Abstract\obj\Debug\net8.0\Abstract.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\civil 22\source\repos\Abstract\obj\Debug\net8.0\Abstract.AssemblyInfoInputs.cache
-C:\Users\civil 22\source\repos\Abstract\obj\Debug\net8.0\Abstract.AssemblyInfo.cs
-C:\Users\civil 22\source\repos\Abstract\obj\Debug\net8.0\Abstract.csproj.CoreCompileInputs.cache
