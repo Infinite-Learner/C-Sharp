@@ -65,8 +65,6 @@ namespace CS6A
                         Main();
                         break;
         }
-        }
-
-       
+        }   
     }
 }
