@@ -1,0 +1,15 @@
+D:\C-Sharp\NumberReverse\bin\Debug\net8.0\NumberReverse.exe
+D:\C-Sharp\NumberReverse\bin\Debug\net8.0\NumberReverse.deps.json
+D:\C-Sharp\NumberReverse\bin\Debug\net8.0\NumberReverse.runtimeconfig.json
+D:\C-Sharp\NumberReverse\bin\Debug\net8.0\NumberReverse.dll
+D:\C-Sharp\NumberReverse\bin\Debug\net8.0\NumberReverse.pdb
+D:\C-Sharp\NumberReverse\obj\Debug\net8.0\NumberReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\NumberReverse\obj\Debug\net8.0\NumberReverse.AssemblyInfoInputs.cache
+D:\C-Sharp\NumberReverse\obj\Debug\net8.0\NumberReverse.AssemblyInfo.cs
+D:\C-Sharp\NumberReverse\obj\Debug\net8.0\NumberReverse.csproj.CoreCompileInputs.cache
+D:\C-Sharp\NumberReverse\obj\Debug\net8.0\NumberReverse.sourcelink.json
+D:\C-Sharp\NumberReverse\obj\Debug\net8.0\NumberReverse.dll
+D:\C-Sharp\NumberReverse\obj\Debug\net8.0\refint\NumberReverse.dll
+D:\C-Sharp\NumberReverse\obj\Debug\net8.0\NumberReverse.pdb
+D:\C-Sharp\NumberReverse\obj\Debug\net8.0\NumberReverse.genruntimeconfig.cache
+D:\C-Sharp\NumberReverse\obj\Debug\net8.0\ref\NumberReverse.dll

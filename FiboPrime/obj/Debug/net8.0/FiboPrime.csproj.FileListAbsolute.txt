@@ -1,0 +1,15 @@
+D:\C-Sharp\FiboPrime\bin\Debug\net8.0\FiboPrime.exe
+D:\C-Sharp\FiboPrime\bin\Debug\net8.0\FiboPrime.deps.json
+D:\C-Sharp\FiboPrime\bin\Debug\net8.0\FiboPrime.runtimeconfig.json
+D:\C-Sharp\FiboPrime\bin\Debug\net8.0\FiboPrime.dll
+D:\C-Sharp\FiboPrime\bin\Debug\net8.0\FiboPrime.pdb
+D:\C-Sharp\FiboPrime\obj\Debug\net8.0\FiboPrime.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\FiboPrime\obj\Debug\net8.0\FiboPrime.AssemblyInfoInputs.cache
+D:\C-Sharp\FiboPrime\obj\Debug\net8.0\FiboPrime.AssemblyInfo.cs
+D:\C-Sharp\FiboPrime\obj\Debug\net8.0\FiboPrime.csproj.CoreCompileInputs.cache
+D:\C-Sharp\FiboPrime\obj\Debug\net8.0\FiboPrime.sourcelink.json
+D:\C-Sharp\FiboPrime\obj\Debug\net8.0\FiboPrime.dll
+D:\C-Sharp\FiboPrime\obj\Debug\net8.0\refint\FiboPrime.dll
+D:\C-Sharp\FiboPrime\obj\Debug\net8.0\FiboPrime.pdb
+D:\C-Sharp\FiboPrime\obj\Debug\net8.0\FiboPrime.genruntimeconfig.cache
+D:\C-Sharp\FiboPrime\obj\Debug\net8.0\ref\FiboPrime.dll

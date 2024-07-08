@@ -1,0 +1,15 @@
+D:\C-Sharp\ArrayLargest\ArrayLargest\bin\Debug\net8.0\ArrayLargest.exe
+D:\C-Sharp\ArrayLargest\ArrayLargest\bin\Debug\net8.0\ArrayLargest.deps.json
+D:\C-Sharp\ArrayLargest\ArrayLargest\bin\Debug\net8.0\ArrayLargest.runtimeconfig.json
+D:\C-Sharp\ArrayLargest\ArrayLargest\bin\Debug\net8.0\ArrayLargest.dll
+D:\C-Sharp\ArrayLargest\ArrayLargest\bin\Debug\net8.0\ArrayLargest.pdb
+D:\C-Sharp\ArrayLargest\ArrayLargest\obj\Debug\net8.0\ArrayLargest.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\ArrayLargest\ArrayLargest\obj\Debug\net8.0\ArrayLargest.AssemblyInfoInputs.cache
+D:\C-Sharp\ArrayLargest\ArrayLargest\obj\Debug\net8.0\ArrayLargest.AssemblyInfo.cs
+D:\C-Sharp\ArrayLargest\ArrayLargest\obj\Debug\net8.0\ArrayLargest.csproj.CoreCompileInputs.cache
+D:\C-Sharp\ArrayLargest\ArrayLargest\obj\Debug\net8.0\ArrayLargest.sourcelink.json
+D:\C-Sharp\ArrayLargest\ArrayLargest\obj\Debug\net8.0\ArrayLargest.dll
+D:\C-Sharp\ArrayLargest\ArrayLargest\obj\Debug\net8.0\refint\ArrayLargest.dll
+D:\C-Sharp\ArrayLargest\ArrayLargest\obj\Debug\net8.0\ArrayLargest.pdb
+D:\C-Sharp\ArrayLargest\ArrayLargest\obj\Debug\net8.0\ArrayLargest.genruntimeconfig.cache
+D:\C-Sharp\ArrayLargest\ArrayLargest\obj\Debug\net8.0\ref\ArrayLargest.dll
