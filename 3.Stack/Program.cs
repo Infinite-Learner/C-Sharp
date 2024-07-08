@@ -83,6 +83,7 @@ namespace CS3
             while (ch != 0)
             {
                 ch = st.Menu();
+                Console.Clear();
                 switch (ch)
                 {
                     case 1:
