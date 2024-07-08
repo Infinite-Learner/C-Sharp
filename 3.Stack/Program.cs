@@ -30,7 +30,7 @@ namespace CS3
         }
         internal int Pop()
         {
-            if (top < 0)
+            if (isStackEmpty())
             {
                 Console.WriteLine("\nStack Underflow");
                 return 0;
@@ -43,7 +43,7 @@ namespace CS3
         }
         internal void Peek()
         {
-            if (top < 0)
+            if (isStackEmpty ())
             {
                 Console.WriteLine("\nStack Underflow");
                 return;
@@ -56,7 +56,7 @@ namespace CS3
         }
         internal void PrintStack()
         {
-            if (top < 0)
+            if (isStackEmpty ())
             {
                 Console.WriteLine("\nStack Underflow");
                 return;
