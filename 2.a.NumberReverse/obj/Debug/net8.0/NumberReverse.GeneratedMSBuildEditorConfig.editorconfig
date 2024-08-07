@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NumberReverse
-build_property.ProjectDir = D:\C-Sharp\NumberReverse\
+build_property.ProjectDir = D:\C-Sharp\2.a.NumberReverse\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

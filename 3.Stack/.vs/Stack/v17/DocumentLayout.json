@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C-Sharp\\Stack\\",
+  "WorkspaceRootPath": "D:\\C-Sharp\\3.Stack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23BCB5FD-F7DA-4B01-9EBC-487050362DEA}|Stack.csproj|d:\\c-sharp\\stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23BCB5FD-F7DA-4B01-9EBC-487050362DEA}|Stack.csproj|d:\\c-sharp\\3.stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23BCB5FD-F7DA-4B01-9EBC-487050362DEA}|Stack.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Stack\\Program.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\3.Stack\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\C-Sharp\\Stack\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAAwFgAAABJAAAA",
+              "ToolTip": "D:\\C-Sharp\\3.Stack\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAGQAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T10:05:05.953Z",
               "EditorCaption": ""
