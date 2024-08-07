@@ -12,3 +12,18 @@ C:\Users\civil 22\source\repos\VirtualandOverride\obj\Debug\net8.0\refint\Virtua
 C:\Users\civil 22\source\repos\VirtualandOverride\obj\Debug\net8.0\VirtualandOverride.pdb
 C:\Users\civil 22\source\repos\VirtualandOverride\obj\Debug\net8.0\VirtualandOverride.genruntimeconfig.cache
 C:\Users\civil 22\source\repos\VirtualandOverride\obj\Debug\net8.0\ref\VirtualandOverride.dll
+D:\C-Sharp\6.a.VirtualandOverride\bin\Debug\net8.0\VirtualandOverride.exe
+D:\C-Sharp\6.a.VirtualandOverride\bin\Debug\net8.0\VirtualandOverride.deps.json
+D:\C-Sharp\6.a.VirtualandOverride\bin\Debug\net8.0\VirtualandOverride.runtimeconfig.json
+D:\C-Sharp\6.a.VirtualandOverride\bin\Debug\net8.0\VirtualandOverride.dll
+D:\C-Sharp\6.a.VirtualandOverride\bin\Debug\net8.0\VirtualandOverride.pdb
+D:\C-Sharp\6.a.VirtualandOverride\obj\Debug\net8.0\VirtualandOverride.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\6.a.VirtualandOverride\obj\Debug\net8.0\VirtualandOverride.AssemblyInfoInputs.cache
+D:\C-Sharp\6.a.VirtualandOverride\obj\Debug\net8.0\VirtualandOverride.AssemblyInfo.cs
+D:\C-Sharp\6.a.VirtualandOverride\obj\Debug\net8.0\VirtualandOverride.csproj.CoreCompileInputs.cache
+D:\C-Sharp\6.a.VirtualandOverride\obj\Debug\net8.0\VirtualandOverride.sourcelink.json
+D:\C-Sharp\6.a.VirtualandOverride\obj\Debug\net8.0\VirtualandOverride.dll
+D:\C-Sharp\6.a.VirtualandOverride\obj\Debug\net8.0\refint\VirtualandOverride.dll
+D:\C-Sharp\6.a.VirtualandOverride\obj\Debug\net8.0\VirtualandOverride.pdb
+D:\C-Sharp\6.a.VirtualandOverride\obj\Debug\net8.0\VirtualandOverride.genruntimeconfig.cache
+D:\C-Sharp\6.a.VirtualandOverride\obj\Debug\net8.0\ref\VirtualandOverride.dll

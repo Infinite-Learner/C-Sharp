@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C-Sharp\\Abstract\\Abstract.csproj": {}
+    "D:\\C-Sharp\\6.b.Abstract\\Abstract.csproj": {}
   },
   "projects": {
-    "D:\\C-Sharp\\Abstract\\Abstract.csproj": {
+    "D:\\C-Sharp\\6.b.Abstract\\Abstract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C-Sharp\\Abstract\\Abstract.csproj",
+        "projectUniqueName": "D:\\C-Sharp\\6.b.Abstract\\Abstract.csproj",
         "projectName": "Abstract",
-        "projectPath": "D:\\C-Sharp\\Abstract\\Abstract.csproj",
+        "projectPath": "D:\\C-Sharp\\6.b.Abstract\\Abstract.csproj",
         "packagesPath": "C:\\Users\\THE_CODER\\.nuget\\packages\\",
-        "outputPath": "D:\\C-Sharp\\Abstract\\obj\\",
+        "outputPath": "D:\\C-Sharp\\6.b.Abstract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -105,7 +105,6 @@ namespace CS3
                         ch = 0;
                         break;
                     default:
-                        Console.WriteLine("\nWrong Choice");
                         Main(args);
                         break;
                 }

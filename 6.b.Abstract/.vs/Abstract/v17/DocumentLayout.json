@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C-Sharp\\Abstract\\",
+  "WorkspaceRootPath": "D:\\C-Sharp\\6.b.Abstract\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFB57CAA-3E01-4713-AF28-6E398B31B3DD}|Abstract.csproj|d:\\c-sharp\\abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFB57CAA-3E01-4713-AF28-6E398B31B3DD}|Abstract.csproj|d:\\c-sharp\\6.b.abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFB57CAA-3E01-4713-AF28-6E398B31B3DD}|Abstract.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Abstract\\Program.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\6.b.Abstract\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\C-Sharp\\Abstract\\Program.cs",
+              "ToolTip": "D:\\C-Sharp\\6.b.Abstract\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAkAAABCAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T17:46:34.922Z",
               "EditorCaption": ""

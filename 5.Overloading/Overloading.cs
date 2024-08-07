@@ -38,33 +38,37 @@ namespace CS6A
             Console.WriteLine("\nThe Constructor is Overloaded by Float values : ");
             Console.WriteLine("Sum of {0:N2} and {1:N2} = {2:N2} ", a, b, a + b);
         }
-        public static void Main()
+         
+    }
+    public class Overloading {
+        public static void Main(string[] args)
         {
             int ch;
             Console.WriteLine("Program to Illustrate Overloading...");
             Console.Write("\n1.Constructor Overloading...\n2.Method Overloading...\n3.Exit\nChoose to Illustrate : ");
             ch = Int32.Parse(Console.ReadLine());
-                switch (ch)
-                {
-                    case 1:
-                        COverloading co = new COverloading();
-                        COverloading co1 = new COverloading(10, 20);
-                        COverloading co2 = new COverloading(10.5f, 20.676f);
-                        break;
-                    case 2:
-                       MOverloading mo = new MOverloading();
-                        mo.sum();
-                        mo.sum(15, 20);
-                        mo.sum(10.65f, 25.55f);
-                        break;
-                    case 3:
-                        Console.WriteLine("Thanks for Using.. :)");
-                        return;
-                    default:
-                        Console.WriteLine("Wrong Choice ...");
-                        Main();
-                        break;
+            switch (ch)
+            {
+                case 1:
+                    COverloading co = new COverloading();
+                    COverloading co1 = new COverloading(10, 20);
+                    COverloading co2 = new COverloading(10.5f, 20.676f);
+                    break;
+                case 2:
+                    MOverloading mo = new MOverloading();
+                    mo.sum();
+                    mo.sum(15, 20);
+                    mo.sum(10.65f, 25.55f);
+                    break;
+                case 3:
+                    Console.WriteLine("Thanks for Using.. :)");
+                    return;
+                default:
+                    Console.WriteLine("Wrong Choice ...");
+                    Main(args);
+                    break;
+            }
         }
-        }   
     }
+
 }

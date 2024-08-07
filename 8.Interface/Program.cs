@@ -21,7 +21,7 @@ namespace CS8
                 return;
 
             }
-            Console.WriteLine("Welcome Miss.{0}", this.Name);
+            Console.WriteLine("Welcome Ms.{0}", this.Name);
         }
        
     }

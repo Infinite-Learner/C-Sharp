@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QueueDS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee90568f50d80c8b9ed8b13e5677a692133a1fa9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81743ee8567b87199b47898e93005645be2e8584")]
 [assembly: System.Reflection.AssemblyProductAttribute("QueueDS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QueueDS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
